@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">$-CONVI</string>
+    <string name= "time">BUTTON</string>
+    <string name= "Hint">enter your dollar value </string>
+</resources>
